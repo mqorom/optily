@@ -32,7 +32,6 @@ POST /optimisation/accept?optimisationId=5                                 --> A
 
 
 -----------------------------------------------------------------
-recommendation
 
 GET /recommendation/optimization/{optimizationId}?number=5                 --> Get the latest 5 of recommendations that belongs to optimizationId
 
